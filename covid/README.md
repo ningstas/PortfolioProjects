@@ -1,4 +1,4 @@
-## Project 1: Covid in ASEAN Countries + Top 3 Largest Populations
+## Covid in ASEAN Countries + Top 3 Largest Populations
 
 [Data Viz (in Tableau)](https://public.tableau.com/app/profile/ning.chang7904/viz/CovidASEAN_17195593903840/Dashboard1#1)
 
